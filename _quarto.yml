@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Cátedra de Estructural — UTN FRLP"
+  page-footer:
+    center: "Ing. Zangara / Ing. Ronconi · UTN Facultad Regional La Plata · 2026"
+
+format:
+  html:
+    theme: cosmo
+    lang: es

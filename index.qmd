@@ -1,0 +1,17 @@
+---
+title: "Cátedra de Estructural"
+subtitle: "Universidad Tecnológica Nacional · Facultad Regional La Plata"
+---
+
+**Docente:** Ing. Jorge Ronconi
+
+---
+
+## Asignaturas
+
+| Asignatura | Carrera | Sitio |
+|---|---|---|
+| Estabilidad | Ingeniería Civil | [Ver materiales](https://estructural-utn-frlp.github.io/estabilidad-civil) |
+| Estabilidad | Ingeniería Eléctrica | [Ver materiales](https://estructural-utn-frlp.github.io/estabilidad-electrica-industrial) |
+| Estática y Resistencia | Ingeniería  Industrial | [Ver materiales](https://estructural-utn-frlp.github.io/estabilidad-electrica-industrial) |
+| Estabilidad 1 | Ingeniería Mecánica | [Ver materiales](https://estructural-utn-frlp.github.io/estabilidad-mecanica) |
