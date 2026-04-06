@@ -11,7 +11,7 @@ subtitle: "Universidad Tecnológica Nacional · Facultad Regional La Plata"
 
 | Asignatura | Carrera | Sitio |
 |---|---|---|
-| Estabilidad | Ingeniería Civil | [Ver materiales](https://estructuras-utn-frlp.github.io/estabilidad-civil) |
+| Estabilidad | Ingeniería Civil | [Ver materiales](https://estructuras-utn-frlp.github.io/estabilidad_civil) |
 | Estabilidad | Ingeniería Eléctrica | [Ver materiales](https://estructuras-utn-frlp.github.io/estabilidad-electrica-industrial) |
 | Estática y Resistencia | Ingeniería  Industrial | [Ver materiales](https://estructuras-utn-frlp.github.io/estabilidad-electrica-industrial) |
 | Estabilidad 1 | Ingeniería Mecánica | [Ver materiales](https://estructuras-utn-frlp.github.io/estabilidad-mecanica) |
